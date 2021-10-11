@@ -1,0 +1,17 @@
+﻿"segment height"= 12
+"segment top diamerer"= 17
+"segment bottom diameter"= 17
+"rotation hole height"= 5
+"pin hole diameter"= 2
+"spring wire diameter"= 0.4
+"number of turns"= 4
+"spring width"= "spring wire diameter" * "number of turns"
+"spring offset"= 1
+"inner hinge offset"= "spring width" / 2 + "spring offset"
+"hinge width"= 2
+"spring diameter"= 5
+"spring seat diameter"= "spring diameter" + 1
+"hinge arch radius"= 3.5
+"part clearance"= 0.2
+"outer hinge offset"= "inner hinge offset" + "hinge width" + "part clearance"
+"slot angle"= 160
